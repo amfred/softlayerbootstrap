@@ -10,3 +10,6 @@ Dropbox is one way to get HTTPS URLs.  ChefConf demo.
 
 https://gist.github.com/amfred/cdf321ff883acbc3897a bootstrapEurekaChefSoftLayer.sh 
 Bootstrap a Eureka server, SoftLayer style.  This is also an example of Chef Solo setup and editing Chef config files.  See https://github.com/EmergingTechnologyInstitute/SoftLayer-NetflixOSS/wiki/Micro-service-location-services-documentation for more details on the SoftLayer Eureka setup.
+
+https://gist.github.com/amfred/2573ecabcb7c868b120a bootstrapDevstackUbuntuBaremetal.sh
+A script that uses Git to install Devstack on a SoftLayer Ubuntu bare metal server.
