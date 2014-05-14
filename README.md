@@ -13,3 +13,6 @@ Bootstrap a Eureka server, SoftLayer style.  This is also an example of Chef Sol
 
 https://gist.github.com/amfred/2573ecabcb7c868b120a bootstrapDevstackUbuntuBaremetal.sh
 Install Devstack on a SoftLayer Ubuntu bare metal server.
+
+https://gist.github.com/amfred/349f01c588836c17a0d3 bootstrapTomcatChefSoftLayer.sh
+Install Tomcat on a SoftLayer Ubuntu CCI, using Chef Solo.  This is also an example of Chef Solo setup and editing Chef config files.
