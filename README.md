@@ -5,14 +5,14 @@ Bootstrap scripts for SoftLayer: automatically install popular open source packa
 
 See the LICENSE file for licensing details.  These scripts are provided strictly AS-IS and unsupported.  Use at your own risk.  If you would like to help improve a script, you can use the usual Github methods, or contact me on Twitter @DukeAMO.
 
-https://gist.github.com/amfred/527ad1f36254a5aa7d93 testDropbox.sh 
-Dropbox is one way to get HTTPS URLs.  This is from my ChefConf 2014 demo.  It just writes a file and installs Chef.
++ https://gist.github.com/amfred/527ad1f36254a5aa7d93 testDropbox.sh 
+  Dropbox is one way to get HTTPS URLs.  This is from my ChefConf 2014 demo.  It just writes a file and installs Chef.
 
-https://gist.github.com/amfred/cdf321ff883acbc3897a bootstrapEurekaChefSoftLayer.sh 
-Bootstrap a Eureka server, SoftLayer style.  This is also an example of Chef Solo setup and editing Chef config files.  See https://github.com/EmergingTechnologyInstitute/SoftLayer-NetflixOSS/wiki/Micro-service-location-services-documentation for more details on the SoftLayer Eureka setup.
++ https://gist.github.com/amfred/cdf321ff883acbc3897a bootstrapEurekaChefSoftLayer.sh 
+  Bootstrap a Eureka server, SoftLayer style.  This is also an example of Chef Solo setup and editing Chef config files.  See https://github.com/EmergingTechnologyInstitute/SoftLayer-NetflixOSS/wiki/Micro-service-location-services-documentation for more details on the SoftLayer Eureka setup.
 
-https://gist.github.com/amfred/2573ecabcb7c868b120a bootstrapDevstackUbuntuBaremetal.sh
-Install Devstack on a SoftLayer Ubuntu bare metal server.
++ https://gist.github.com/amfred/2573ecabcb7c868b120a bootstrapDevstackUbuntuBaremetal.sh
+  Install Devstack on a SoftLayer Ubuntu bare metal server.
 
-https://gist.github.com/amfred/349f01c588836c17a0d3 bootstrapTomcatChefSoftLayer.sh
-Install Tomcat on a SoftLayer Ubuntu CCI, using Chef Solo.  This is also an example of Chef Solo setup and editing Chef config files.
++ https://gist.github.com/amfred/349f01c588836c17a0d3 bootstrapTomcatChefSoftLayer.sh
+  Install Tomcat on a SoftLayer Ubuntu CCI, using Chef Solo.  This is also an example of Chef Solo setup and editing Chef config files.
