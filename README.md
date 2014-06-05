@@ -7,7 +7,7 @@ See the LICENSE file for licensing details.  These scripts are provided strictly
 
 + https://gist.github.com/amfred/527ad1f36254a5aa7d93 testDropbox.sh 
 
-  Dropbox is one way to get HTTPS URLs.  This is from my ChefConf 2014 demo.  It just writes a file and installs Chef.
+  Dropbox is one way to get HTTPS URLs.  This is from my ChefConf 2014 demo.  It just writes a file and installs Chef.  Note: I do not consider Dropbox a secure repository.  DO NOT EVER put your passwords or other sensitive information into scripts that are saved in Dropbox.  Use a real, secure, HTTPS server for those bootstrap scripts.
 
 + https://gist.github.com/amfred/cdf321ff883acbc3897a bootstrapEurekaChefSoftLayer.sh 
 
