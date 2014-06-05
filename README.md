@@ -1,5 +1,6 @@
 softlayerbootstrap
 ==================
+Authors: Ann Marie Fred, Esther Burwell, James Markham at IBM
 
 Bootstrap scripts for SoftLayer: automatically install popular open source packages on SoftLayer bare metal servers or virtual machines (compute instances).  Put these bootstrap scripts somewhere where you can reference them using HTTP or HTTPS.  Then, enter the URL into the provision script URL field when creating a new server (virtual or bare metal) or re-imaging a server. SoftLayer will download but not execute HTTP URLs, and will download and execute HTTPS URLs.
 
