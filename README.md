@@ -25,3 +25,11 @@ See the LICENSE file for licensing details.  These scripts are provided strictly
 + https://gist.github.com/amfred/ecde9c0985e09a7d3821 bootstrapDisk2AndHostname.sh
 
   Add a secondary disk to a SoftLayer CentOS or RHEL compute instance, and format the hostname so it's easier to look up the hostname and FQDN.  Special thanks to http://firelitdesign.blogspot.com/2011/11/partition-and-mount-drive-on-centos.html for the paritioning tips.
+  
++ https://gist.github.com/amfred/b7aaa818938602e670df bootstrapKVMUbuntu.sh
+
+  Helpful tips for installing KVM on Ubuntu in SoftLayer.
+  
++ https://gist.github.com/amfred/ac1138d3d9dad43fe6de bootstrapKVMCentOSBaremetal.sh
+
+  Helpful tips for installing KVM on CentOS in SoftLayer.
