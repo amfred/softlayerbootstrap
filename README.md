@@ -21,3 +21,7 @@ See the LICENSE file for licensing details.  These scripts are provided strictly
 + https://gist.github.com/amfred/349f01c588836c17a0d3 bootstrapTomcatChefSoftLayer.sh
 
   Install Tomcat on a SoftLayer Ubuntu CCI, using Chef Solo.  This is also an example of Chef Solo setup and editing Chef config files.
+  
++ https://gist.github.com/amfred/ecde9c0985e09a7d3821 bootstrapDisk2AndHostname.sh
+
+  Add a secondary disk to a SoftLayer compute instance, and format the hostname so it's easier to look up the hostname and FQDN.  Special thanks to http://firelitdesign.blogspot.com/2011/11/partition-and-mount-drive-on-centos.html for the paritioning tips.
